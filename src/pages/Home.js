@@ -12,9 +12,9 @@ function Home() {
         </div>
         <div className="row">
           <div className="col-md-12">
-            {/* <div className="table-wrap"> */}
-            <Table />
-            {/* </div> */}
+            <div className="table-wrap">
+              <Table />
+            </div>
           </div>
         </div>
       </div>
